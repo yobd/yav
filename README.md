@@ -1,7 +1,7 @@
 #YOBD Add Videos v1.0.0
 ###Add YouTube Videos to WordPress with shortcode from the page url. Viemo functionality to come soon.
 
-##License
+##[License](https://github.com/yobd/yav/blob/master/README.md#license)
 
 This program is free software; you can redistribute it and/or modify
 it under the terms of the [GNU General Public License](https://wordpress.org/about/gpl/), v3, as
@@ -16,7 +16,7 @@ You should have received a copy of the [GNU General Public License](https://word
 along with this program; if not, write to the Free Software
 Foundation, Inc., 51 Franklin St, Fifth Floor, Boston, MA  02110-1301  USA
 
-##Versioning
+##[Versioning](https://github.com/yobd/yav/blob/master/README.md#Versioning)
 
 Font Awesome will be maintained under the Semantic Versioning guidelines as much as possible. Releases will be numbered
 with the following format:
@@ -31,9 +31,9 @@ And constructed with the following guidelines:
 
 For more information on SemVer, please visit http://semver.org.
 
-##Author
+##[Author](https://github.com/yobd/yav/blob/master/README.md#author)
 - Email: yobdmail@gamil.com
 - GitHub: url coming soon
 
-##Changelog
+##[Changelog](https://github.com/yobd/yav/blob/master/README.md#changelog)
 - v1.0.0 - first release - basic functionality: YouTube only
