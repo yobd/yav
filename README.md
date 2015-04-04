@@ -1,5 +1,5 @@
 #YOBD Add Videos v1.0.0
-###Embed Videos to WordPress with shortcode from the page url. 
+###Embed Videos in WordPress with shortcode from the page url. 
 A very simple, but powerful [WordPress](https://wordpress.org) video embed plugin that lets you embed videos straight into any page or post with just the page url, not the embed url! Only [YouTube](https://youtube.com) videos currently supported, [Viemo](https://viemo.com) functionality to come soon. Any other platform you think should be included? Then pull a request!
 
 ##[License](https://github.com/yobd/yav/blob/master/README.md#license)
