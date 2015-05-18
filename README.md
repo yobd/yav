@@ -19,7 +19,7 @@ Foundation, Inc., 51 Franklin St, Fifth Floor, Boston, MA  02110-1301  USA
 
 ##[Versioning](https://github.com/yobd/yav/blob/master/README.md#Versioning)
 
-Font Awesome will be maintained under the Semantic Versioning guidelines as much as possible. Releases will be numbered
+Add Video will be maintained under the Semantic Versioning guidelines as much as possible. Releases will be numbered
 with the following format:
 
 `<major>.<minor>.<patch>`
